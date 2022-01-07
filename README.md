@@ -1,3 +1,3 @@
 # PINTODLib
 
-This Repo Is Using For [https://github.com/AthallahDzaki/PINTOD](PINTOD) Compiled Library
+This Repo Is Using For [PINTOD](https://github.com/AthallahDzaki/PINTOD) Compiled Library
